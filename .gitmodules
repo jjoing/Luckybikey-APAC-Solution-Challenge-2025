@@ -1,0 +1,6 @@
+[submodule "Luckybikey-frontend"]
+	path = Luckybikey-frontend
+	url = https://github.com/JoonkyuJang/Luckybikey-frontend
+[submodule "Luckybikey-server"]
+	path = Luckybikey-server
+	url = https://github.com/JoonkyuJang/Luckybikey-server
