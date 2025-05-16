@@ -9,9 +9,7 @@
   - [💡 Introduction](#-introduction)
     - [Target Goals 🎯](#target-goals-)
   - [🤖 Demo Video](#-demo-video)
-  - [🔮 Features](#-features)
   - [🚀 Getting Started](#-getting-started)
-  - [🛳 User Guide](#-user-guide)
   - [🛠 Project Architecture](#-project-architecture)
   - [🔗 Link to Other Parts](#-link-to-other-parts)
   - [🤝 Contributors](#-contributors)
@@ -27,7 +25,32 @@ Our problem statement is that when we use bicycles as transportation, the user i
 Our Goal is to make **Luckybikey** as a naver map!
 
 
-### Target Goals 🎯
+## Target Goals 🎯
+
+<p align="center">
+  <img src="https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-11.jpg" width="150"/>
+  <img src="https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-03.jpg" width="150"/>
+</p>
+
+
+### 🚴‍♂️ LuckyBikey: Personalized Cycling Routes for Sustainable Cities</h2>
+
+  **LuckyBikey** aims to promote sustainable urban mobility by providing personalized cycling route recommendations based on user preferences. 
+  Our service directly contributes to solving <b>SDG Goal 11</b> — Sustainable Cities and Communities, while also supporting <b>SDG Goal 3</b> — Good Health and Well-being.
+
+<br>
+
+🏙️ **Main Goal: SDG 11 - Sustainable Cities and Communities**  
+LuckyBikey helps reduce carbon emissions and traffic congestion by encouraging eco-friendly bicycle usage. Through data-driven personalized routes, we aim to make urban cycling more accessible and enjoyable for all.
+
+💪 **Supporting Goal: SDG 3 - Good Health and Well-being**  
+By promoting regular physical activity through cycling, LuckyBikey also supports healthier lifestyles and improved mental well-being.
+
+
+🌱 Together, we’re building greener, healthier, and smarter cities.
+
+<br>
+
 
 <br>
 
@@ -40,23 +63,10 @@ You can check out our demo video here:
 
 <br>
 
-## Features
-
-<br>
-
 ## 🚀 Getting Started
 
 1. Download our APK file here: [Download APK](https://drive.google.com/file/d/1rxAWtahSjyerxTiMYMMgJ46R-NAyCovx/view?usp=sharing)
 2. Run the downloaded file on your phone! ✨
-
-<br>
-
-## 🛳 User Guide
-
-### Walkthrough
-
-
-### Instructions
 
 
 <br>
@@ -72,9 +82,8 @@ You can check out our demo video here:
 
 If you want to explore other parts, feel free to navigate to:
 
-- [Frontend Development]()
-- [Machine Learning Server Development]()
-- [Backend Development]()
+- [Frontend Development](https://github.com/JoonkyuJang/Luckybikey-frontend)
+- [Server Development](https://github.com/JoonkyuJang/Luckybikey-server)
 
 <br>
 
@@ -82,6 +91,6 @@ If you want to explore other parts, feel free to navigate to:
 
 | [Yoonbin Cho](https://github.com/jjoing)                            | [Junkyu Jang](https://github.com/JoonkyuJang)                   | [Yejin Kim](https://github.com/BbiBbalkBbulk)                       | [Nakyung Lim](https://github.com/genius-nana)                          |
 | ----------------------------------------------------------------- |-----------------------------------------------------------------| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="https://avatars.githubusercontent.com/u/143711988?v=4"> | <img src="https://avatars.githubusercontent.com/u/91795709?v=4"> | <img src="https://avatars.githubusercontent.com/u/69153412?v=4"> |  |
+| <img src="https://avatars.githubusercontent.com/u/143711988?v=4"> | <img src="https://avatars.githubusercontent.com/u/91795709?v=4"> | <img src="https://avatars.githubusercontent.com/u/69153412?v=4"> | <img src="https://avatars.githubusercontent.com/u/188848658?v=4"> |
 | FE / Leader                                                     | Full-stack                                            | Algorithm                                                      | PM                     
  |
