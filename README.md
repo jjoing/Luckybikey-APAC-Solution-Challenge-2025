@@ -9,7 +9,6 @@
     - [🚴‍♂️ LuckyBikey: Personalized Cycling Routes for Sustainable Cities](#️-luckybikey-personalized-cycling-routes-for-sustainable-cities)
   - [🤖 Demo Video](#-demo-video)
   - [🚀 Run the App](#-run-the-app)
-  - [🛠 Project Architecture](#-project-architecture)
   - [🛳 User Guide](#-user-guide)
     - [🔐 Login Screen](#-login-screen)
     - [🏠 Home Screen](#-home-screen)
@@ -18,6 +17,7 @@
     - [🎯 Rider Result](#-rider-result)
     - [📍 Route Recommendation](#-route-recommendation)
     - [🏆 Ranking & Distance](#-ranking--distance)
+  - [🛠 Project Architecture](#-project-architecture)
   - [🔗 Link to Other Parts](#-link-to-other-parts)
   - [🤝 Contributors](#-contributors)
 
@@ -71,13 +71,6 @@ You can check out our demo video here:
 ## 🚀 Run the App
 
 Download our APK file here: [Download APK](https://drive.google.com/file/d/1rxAWtahSjyerxTiMYMMgJ46R-NAyCovx/view?usp=sharing)
-
-
-<br>
-
-## 🛠 Project Architecture
-
-![Project Architecture](https://github.com/user-attachments/assets/0b2a386f-3f32-4a20-8a94-679b2a751671)
 
 
 <br>
@@ -145,6 +138,14 @@ View your ranking and total riding distance.
 
 
 <br>
+
+
+## 🛠 Project Architecture
+
+![Project Architecture](https://github.com/user-attachments/assets/0b2a386f-3f32-4a20-8a94-679b2a751671)
+
+<br>
+
 
 ## 🔗 Link to Other Parts
 
