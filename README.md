@@ -8,8 +8,16 @@
   - [Target Goals 🎯](#target-goals-)
     - [🚴‍♂️ LuckyBikey: Personalized Cycling Routes for Sustainable Cities](#️-luckybikey-personalized-cycling-routes-for-sustainable-cities)
   - [🤖 Demo Video](#-demo-video)
-  - [🚀 Getting Started](#-getting-started)
+  - [🚀 Run the App](#-run-the-app)
   - [🛠 Project Architecture](#-project-architecture)
+  - [🛳 User Guide](#-user-guide)
+    - [🔐 Login Screen](#-login-screen)
+    - [🏠 Home Screen](#-home-screen)
+    - [👤 Profile & Preferences](#-profile--preferences)
+    - [📝 Preference Survey](#-preference-survey)
+    - [🎯 Rider Result](#-rider-result)
+    - [📍 Route Recommendation](#-route-recommendation)
+    - [🏆 Ranking & Distance](#-ranking--distance)
   - [🔗 Link to Other Parts](#-link-to-other-parts)
   - [🤝 Contributors](#-contributors)
 
@@ -60,10 +68,9 @@ You can check out our demo video here:
 
 <br>
 
-## 🚀 Getting Started
+## 🚀 Run the App
 
-1. Download our APK file here: [Download APK](https://drive.google.com/file/d/1rxAWtahSjyerxTiMYMMgJ46R-NAyCovx/view?usp=sharing)
-2. Run the downloaded file on your phone! ✨
+Download our APK file here: [Download APK](https://drive.google.com/file/d/1rxAWtahSjyerxTiMYMMgJ46R-NAyCovx/view?usp=sharing)
 
 
 <br>
@@ -71,6 +78,70 @@ You can check out our demo video here:
 ## 🛠 Project Architecture
 
 ![Project Architecture](https://github.com/user-attachments/assets/0b2a386f-3f32-4a20-8a94-679b2a751671)
+
+
+<br>
+
+## 🛳 User Guide
+
+### 1. 🔐 Login Screen  
+Use your Email & Password, or choose social login (Google or Kakao).
+
+<img src="https://github.com/user-attachments/assets/f8581b8d-61a3-4959-a10f-7f07a109ea27" width="300"/>
+
+---
+
+### 2. 🏠 Home Screen  
+Choose to search for a route or set your preferences.
+
+<img src="https://github.com/user-attachments/assets/e17534d3-4c07-450a-b862-4ca2b14a8f7f" width="300"/>
+
+---
+
+### 3. 👤 Profile & Preferences  
+See your preferences, ranking, and personal rider card.
+
+<img src="https://github.com/user-attachments/assets/fd07a208-f7f7-4df8-bf2f-e4477158673b" width="300"/>
+
+---
+
+### 4. 📝 Preference Survey  
+Take a short survey to let LuckyBikey know your cycling taste.
+
+<img src="https://github.com/user-attachments/assets/b90b94b4-2f90-45e6-8468-40e710d8ab6d" width="300"/>  
+<img src="https://github.com/user-attachments/assets/84907c36-7f9e-4364-9659-cd073bb8005f" width="300"/>
+
+---
+
+### 5. 🎯 Rider Result  
+Get a fun character and keywords based on your survey answer!
+
+<img src="https://github.com/user-attachments/assets/4527d281-2bfa-4947-960e-0e00afc179dc" width="300"/>
+
+---
+
+### 6. 📍 Route Recommendation  
+Search directly or ask Gemini for destination suggestions.  
+Uses Naver Map + Gemini AI.
+
+<img src="https://github.com/user-attachments/assets/78b6907f-5a9b-4569-a11e-2fa04318c60e" width="300"/>  
+<img src="https://github.com/user-attachments/assets/628b911a-32c2-414c-8f30-a4b7c20d2b25" width="300"/>
+
+---
+
+### 7. 🏆 Ranking & Distance  
+View your ranking and total riding distance.
+
+<img src="https://github.com/user-attachments/assets/b9f90a09-e02c-4b2a-bb68-661fbc15b76e" width="300"/>  
+<img src="https://github.com/user-attachments/assets/d8f7361b-ff3b-402e-b953-1fb7f7ddca22" width="300"/>
+
+---
+
+## ✅ Tips
+
+- You can retake the survey anytime to update your preferences.
+- All routes consider your preferences like avoiding hills or prioritizing scenery.
+- Gemini AI helps find hidden gems around your location!
 
 
 <br>
