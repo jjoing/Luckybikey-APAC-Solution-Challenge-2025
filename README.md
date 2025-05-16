@@ -1,5 +1,3 @@
-![CoverImage]()
-
 # 2025 APAC Solution Challenge : Luckybikey
 
 <details>
@@ -49,8 +47,6 @@ By promoting regular physical activity through cycling, LuckyBikey also supports
 
 
 🌱 Together, we’re building greener, healthier, and smarter cities.
-
-<br>
 
 
 <br>
