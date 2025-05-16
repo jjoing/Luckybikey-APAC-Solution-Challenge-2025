@@ -7,7 +7,8 @@
 
 - [2025 APAC Solution Challenge : Luckybikey](#2025-apac-solution-challenge--luckybikey)
   - [💡 Introduction](#-introduction)
-    - [Target Goals 🎯](#target-goals-)
+  - [Target Goals 🎯](#target-goals-)
+    - [🚴‍♂️ LuckyBikey: Personalized Cycling Routes for Sustainable Cities](#️-luckybikey-personalized-cycling-routes-for-sustainable-cities)
   - [🤖 Demo Video](#-demo-video)
   - [🚀 Getting Started](#-getting-started)
   - [🛠 Project Architecture](#-project-architecture)
@@ -89,8 +90,7 @@ If you want to explore other parts, feel free to navigate to:
 
 ## 🤝 Contributors
 
-| [Yoonbin Cho](https://github.com/jjoing)                            | [Junkyu Jang](https://github.com/JoonkyuJang)                   | [Yejin Kim](https://github.com/BbiBbalkBbulk)                       | [Nakyung Lim](https://github.com/genius-nana)                          |
+| [Yoonbin Cho](https://github.com/jjoing)                            | [Joonkyu Jang](https://github.com/JoonkyuJang)                   | [Yejin Kim](https://github.com/BbiBbalkBbulk)                       | [Nakyung Lim](https://github.com/genius-nana)                          |
 | ----------------------------------------------------------------- |-----------------------------------------------------------------| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <img src="https://avatars.githubusercontent.com/u/143711988?v=4"> | <img src="https://avatars.githubusercontent.com/u/91795709?v=4"> | <img src="https://avatars.githubusercontent.com/u/69153412?v=4"> | <img src="https://avatars.githubusercontent.com/u/188848658?v=4"> |
 | FE / Leader                                                     | Full-stack                                            | Algorithm                                                      | PM                     
- |
