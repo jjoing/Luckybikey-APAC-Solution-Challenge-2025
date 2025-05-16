@@ -72,15 +72,15 @@ You can check out our demo video here:
 
 If you want to explore other parts, feel free to navigate to:
 
-- [Frontend Development](https://github.com/e6d1fe/ACTemo-flutter.git)
-- [Machine Learning Server Development](https://github.com/smmin21/ACTemo-server)
-- [Backend Development](https://github.com/smmin21/ACTemo-API-Server)
+- [Frontend Development]()
+- [Machine Learning Server Development]()
+- [Backend Development]()
 
 <br>
 
 ## 🤝 Contributors
 
-| [Yoonbin Cho](https://github.com/jjoing)                            | [Junkyu Jang](https://github.com/JoonkyuJang)                   | [Yejin Kim](https://github.com/BbiBbalkBbulk)                       | [Nakyung Lim](https://github.com/)                          |
+| [Yoonbin Cho](https://github.com/jjoing)                            | [Junkyu Jang](https://github.com/JoonkyuJang)                   | [Yejin Kim](https://github.com/BbiBbalkBbulk)                       | [Nakyung Lim](https://github.com/genius-nana)                          |
 | ----------------------------------------------------------------- |-----------------------------------------------------------------| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <img src="https://avatars.githubusercontent.com/u/143711988?v=4"> | <img src="https://avatars.githubusercontent.com/u/91795709?v=4"> | <img src="https://avatars.githubusercontent.com/u/69153412?v=4"> |  |
 | FE / Leader                                                     | Full-stack                                            | Algorithm                                                      | PM                     
